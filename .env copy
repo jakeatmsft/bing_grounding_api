@@ -1,0 +1,5 @@
+PROJECT_CONNECTION_STRING="your project connection string here"
+BING_RESOURCE_NAME="your bing resource name here"
+AGENT_NAME="your agent name here"
+AGENT_INSTRUCTIONS="You are a research assistant that helps researchers find information quickly from a variety of sources which is web search. Provide concise and accurate answers with references"
+AGENT_LLM="gpt-4.1"
